@@ -1,0 +1,29 @@
+Added Component: Designator=BT1(BAT_BC9VPC)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC9VPC/MPD/view-part/4389071/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC9VPC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BC9VPC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC9VPC/MPD/view-part/4389071/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC 0603)
+Add component (AddParameter): Name = "Category"; Value = "Capacitor Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Favorites"; Value = "Favorite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Rating"; Value = "nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "100nF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT1-N
+Added Pin To Net: NetName=+9 Pin=BT1-P
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+3.3 Pin=C6-2
+Added Member To Class: ClassName=RcTransmitterPower Member=Component BT1 Battery Holder
+Added Member To Class: ClassName=RcTransmitterPower Member=Component C6 100nF
+Added Room: Name=RcTransmitterMC
+Added Room: Name=RcTransmitterPower
+Added Room: Name=RcTransmitterSwitches

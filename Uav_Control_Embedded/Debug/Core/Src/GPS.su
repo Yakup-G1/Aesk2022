@@ -1,0 +1,10 @@
+GPS.c:15:6:GPS_Data_Control	32	static
+GPS.c:148:10:CHECKSUM_Find	32	static
+GPS.c:162:10:NMEA_CheckSum	24	static
+GPS.c:175:9:Hex2Int	24	static
+GPS.c:193:7:Find_Comma_Address	24	static
+GPS.c:209:8:convertDegMinToDecDeg	40	static
+GPS.c:249:6:GPS_Parser	40	static
+GPS.c:319:6:donmus_veri_kontrol	32	static
+GPS.c:338:5:my_getnbr	24	static
+GPS.c:359:7:stof	32	static

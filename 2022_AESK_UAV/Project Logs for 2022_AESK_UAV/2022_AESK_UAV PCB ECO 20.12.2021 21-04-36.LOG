@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=R6 Old Footprint=RESC 0805 New Footprint=RESC 0603
+Change Component Footprint: Designator=R7 Old Footprint=RESC 0805 New Footprint=RESC 0603
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC 0805"; UniqueID = "\EKJANOOD" ("\EKJANOOD")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R0220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Values"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RESC 0805"; UniqueID = "\MLEBGXGU" ("\MLEBGXGU")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R0220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Values"; Value = "10K"; VariantName = "[No Variations]"
+Added Room: Name=2022_AESK_UAV_CAN
+Added Room: Name=2022_AESK_UAV_CONNECTOR
+Added Room: Name=2022_AESK_UAV_EXT_CONN
+Added Room: Name=2022_AESK_UAV_Islemci
+Added Room: Name=2022_AESK_UAV_Power
+Added Room: Name=2022_AESK_UAV_Sensors

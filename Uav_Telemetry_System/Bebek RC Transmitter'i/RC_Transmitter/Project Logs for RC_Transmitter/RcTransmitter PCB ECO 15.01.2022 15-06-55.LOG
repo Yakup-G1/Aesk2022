@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=ADC0 New Net Name=ADC1
+Change Net Name : Old Net Name=ADC1 New Net Name=ADC2
+Change Net Name : Old Net Name=ADC2 New Net Name=ADC3
+Change Net Name : Old Net Name=ADC3 New Net Name=ADC4
+Change Net Name : Old Net Name=ADC4 New Net Name=ADC5
+Change Net Name : Old Net Name=ADC5 New Net Name=ADC6
+Change Net Name : Old Net Name=ADC6 New Net Name=ADC7
+Added Room: Name=RcTransmitterMC
+Added Room: Name=RcTransmitterPower
+Added Room: Name=RcTransmitterSwitches

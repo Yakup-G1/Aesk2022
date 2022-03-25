@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=ADC6 Pin=R7-1
+Removed Pin From Net: NetName=ADC6 Pin=R8-2
+Change component parameters: Designator = "BOOT1" ("BOOT1"); Footprint = "HDR_2.54_1X3"; UniqueID = "\YUOGBHCP" ("\YUOGBHCP")
+Change component parameters (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "HDR_2.54_1X3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "Connector0009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Values"; Value = "Header 2.54 1x3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BOOT2" ("BOOT2"); Footprint = "HDR_2.54_1X3"; UniqueID = "\HUOVCRHI" ("\HUOVCRHI")
+Change component parameters (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "HDR_2.54_1X3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "Connector0009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Values"; Value = "Header 2.54 1x3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC7 Pin=R7-1
+Added Pin To Net: NetName=ADC7 Pin=R8-2
+Added Net: Name=ADC7
+Added Room: Name=RcTransmitterMC
+Added Room: Name=RcTransmitterPower
+Added Room: Name=RcTransmitterSwitches

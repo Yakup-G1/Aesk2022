@@ -1,0 +1,3 @@
+AhrsFilter2.c:36:6:MadgwickAHRSupdate	200	static
+AhrsFilter2.c:167:6:MadgwickAHRSupdateIMU	96	static
+AhrsFilter2.c:251:6:Quat_to_Deg	40	static

@@ -1,0 +1,13 @@
+Added Component: Designator=G1(gnd)
+Added Component: Designator=G2(gnd)
+Added Component: Designator=G3(gnd)
+Added Component: Designator=G4(gnd)
+Added Pin To Net: NetName=GND Pin=G1-1
+Added Pin To Net: NetName=GND Pin=G2-1
+Added Pin To Net: NetName=GND Pin=G3-1
+Added Pin To Net: NetName=GND Pin=G4-1
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component G1 gnd
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component G2 gnd
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component G3 gnd
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component G4 gnd
+Added Room: Name=2022_AESK_UAV_POWER

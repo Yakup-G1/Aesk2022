@@ -1,0 +1,4 @@
+Added Member To Class: ClassName=RcTransmitterPower Member=Component BT1 Battery Holder
+Added Room: Name=RcTransmitterMC
+Added Room: Name=RcTransmitterPower
+Added Room: Name=RcTransmitterSwitches

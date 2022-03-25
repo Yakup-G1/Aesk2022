@@ -1,0 +1,60 @@
+Added Component: Designator=C5(CAPC 1206)
+Add component (AddParameter): Name = "Category"; Value = "Capacitor Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Rating"; Value = "uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "1uF 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC 1206)
+Add component (AddParameter): Name = "Category"; Value = "Capacitor Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Rating"; Value = "uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "1uF 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC 1206)
+Add component (AddParameter): Name = "Category"; Value = "Capacitor Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Rating"; Value = "uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "1uF 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC 1206)
+Add component (AddParameter): Name = "Category"; Value = "Capacitor Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Rating"; Value = "uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "1uF 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(AMASS_XT60PW-M)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60PW-M%20/AMASS/view-part/3075559/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+12V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+12V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+12V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+12V Pin=C8-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=+12V Pin=J1-2
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C5 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C6 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C7 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C8 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component J1 XT60PW-M
+Added Room: Name=2022_AESK_UAV_POWER

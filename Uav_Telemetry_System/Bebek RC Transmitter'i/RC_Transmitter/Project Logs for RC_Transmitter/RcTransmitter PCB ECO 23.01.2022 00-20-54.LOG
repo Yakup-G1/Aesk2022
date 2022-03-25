@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=LED3-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Added Component: Designator=P2(HDR_2.54_1X4)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "HDR_2.54_1X4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Connector0010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "Header 2.54 1x4"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR_2.54_1X4)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "HDR_2.54_1X4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Connector0010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "Header 2.54 1x4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=I2C SCL Pin=P2-3
+Added Pin To Net: NetName=I2C SDA Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=GPIO 6 Pin=U2-46
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R3-1
+Added Net: Name=NetLED3_2
+Added Member To Class: ClassName=RcTransmitterMC Member=Component P2 1x4 PIN
+Added Member To Class: ClassName=RcTransmitterMC Member=Component P3 1x4 PIN
+Added Room: Name=RcTransmitterMC
+Added Room: Name=RcTransmitterPower
+Added Room: Name=RcTransmitterSwitches

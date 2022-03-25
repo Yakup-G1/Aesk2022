@@ -1,0 +1,3 @@
+AESK_GL.c:10:6:AESK_GL_Init	24	static
+AESK_GL.c:18:6:HAL_SYSTICK_Callback	4	static
+AESK_GL.c:47:10:aeskCRCCalculator	24	static

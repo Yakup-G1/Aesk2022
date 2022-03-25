@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=ibus rx Pin=P3-3
+Removed Pin From Net: NetName=+5V Pin=P3-4
+Removed Pin From Net: NetName=+5V Pin=P3-5
+Removed Pin From Net: NetName=+3.3V Pin=P3-6
+Removed Pin From Net: NetName=GPIO Pin=P3-7
+Removed Pin From Net: NetName=USART6-TX Pin=P3-8
+Removed Pin From Net: NetName=USART3-TX Pin=P3-9
+Removed Pin From Net: NetName=USART6-RX Pin=P3-10
+Removed Pin From Net: NetName=GND Pin=P3-11
+Removed Pin From Net: NetName=GND Pin=P3-12
+Removed Pin From Net: NetName=CANH_1 Pin=P3-13
+Removed Pin From Net: NetName=SPI3-CS Pin=P3-14
+Removed Pin From Net: NetName=CANL_1 Pin=P3-15
+Removed Pin From Net: NetName=SPI3-SCK Pin=P3-16
+Removed Pin From Net: NetName=CANH_2 Pin=P3-17
+Removed Pin From Net: NetName=SPI3-MISO Pin=P3-18
+Removed Pin From Net: NetName=CANL_2 Pin=P3-19
+Removed Pin From Net: NetName=SPI3-MOSI Pin=P3-20
+Removed Member From Class: ClassName=2022_AESK_UAV_CONNECTOR Member=P3
+Added Component: Designator=*(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=ibus rx Pin=*-3
+Added Pin To Net: NetName=+5V Pin=*-4
+Added Pin To Net: NetName=+5V Pin=*-5
+Added Pin To Net: NetName=+3.3V Pin=*-6
+Added Pin To Net: NetName=GPIO Pin=*-7
+Added Pin To Net: NetName=USART6-TX Pin=*-8
+Added Pin To Net: NetName=USART3-TX Pin=*-9
+Added Pin To Net: NetName=USART6-RX Pin=*-10
+Added Pin To Net: NetName=GND Pin=*-11
+Added Pin To Net: NetName=GND Pin=*-12
+Added Pin To Net: NetName=CANH_1 Pin=*-13
+Added Pin To Net: NetName=SPI3-CS Pin=*-14
+Added Pin To Net: NetName=CANL_1 Pin=*-15
+Added Pin To Net: NetName=SPI3-SCK Pin=*-16
+Added Pin To Net: NetName=CANH_2 Pin=*-17
+Added Pin To Net: NetName=SPI3-MISO Pin=*-18
+Added Pin To Net: NetName=CANL_2 Pin=*-19
+Added Pin To Net: NetName=SPI3-MOSI Pin=*-20
+Added Member To Class: ClassName=2022_AESK_UAV_CONNECTOR Member=Component * 2x10 header
+Added Room: Name=2022_AESK_UAV_CAN
+Added Room: Name=2022_AESK_UAV_CONNECTOR
+Added Room: Name=2022_AESK_UAV_EXT_CONN
+Added Room: Name=2022_AESK_UAV_Islemci
+Added Room: Name=2022_AESK_UAV_Power
+Added Room: Name=2022_AESK_UAV_Sensors

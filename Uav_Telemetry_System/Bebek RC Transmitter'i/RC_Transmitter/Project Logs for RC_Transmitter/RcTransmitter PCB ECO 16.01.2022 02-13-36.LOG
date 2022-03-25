@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Added Room: Name=RcTransmitterMC
+Added Room: Name=RcTransmitterPower
+Added Room: Name=RcTransmitterSwitches

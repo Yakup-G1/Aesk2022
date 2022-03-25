@@ -1,0 +1,25 @@
+Added Component: Designator=C5(CAPC 0603)
+Add component (AddParameter): Name = "Category"; Value = "Capacitor Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Rating"; Value = "uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "10uF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SSD1106 OLED)
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+3.3 Pin=C5-2
+Added Pin To Net: NetName=GPIO 6 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=I2C SCL Pin=U5-3
+Added Pin To Net: NetName=I2C SDA Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-S1
+Added Pin To Net: NetName=GND Pin=U5-S2
+Added Pin To Net: NetName=GND Pin=U5-S3
+Added Pin To Net: NetName=GND Pin=U5-S4
+Added Member To Class: ClassName=RcTransmitterPower Member=Component C5 10uF
+Added Member To Class: ClassName=RcTransmitterMC Member=Component U5 OLED Screen
+Added Room: Name=RcTransmitterMC
+Added Room: Name=RcTransmitterPower
+Added Room: Name=RcTransmitterSwitches

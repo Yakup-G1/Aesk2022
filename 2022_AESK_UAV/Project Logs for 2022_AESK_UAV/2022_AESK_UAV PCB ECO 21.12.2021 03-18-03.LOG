@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetR20_1 Pin=R22-1
+Removed Pin From Net: NetName=NetC28_1 Pin=R22-2
+Removed Pin From Net: NetName=NetC28_1 Pin=R23-1
+Removed Pin From Net: NetName=NetR21_1 Pin=R23-2
+Removed Member From Class: ClassName=2022_AESK_UAV_CAN Member=R22
+Removed Member From Class: ClassName=2022_AESK_UAV_CAN Member=R23
+Added Component: Designator=R16(RESC 0805)
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0386"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "69.1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "68K"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC 0805)
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0386"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "69.1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "68K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC28_1 Pin=R16-1
+Added Pin To Net: NetName=NetR20_1 Pin=R16-2
+Added Pin To Net: NetName=NetC28_1 Pin=R17-1
+Added Pin To Net: NetName=NetR21_1 Pin=R17-2
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR17_2
+Added Member To Class: ClassName=2022_AESK_UAV_CAN Member=Component R16 69.1K
+Added Member To Class: ClassName=2022_AESK_UAV_CAN Member=Component R17 69.1K
+Added Room: Name=2022_AESK_UAV_CAN
+Added Room: Name=2022_AESK_UAV_CONNECTOR
+Added Room: Name=2022_AESK_UAV_EXT_CONN
+Added Room: Name=2022_AESK_UAV_Islemci
+Added Room: Name=2022_AESK_UAV_Power
+Added Room: Name=2022_AESK_UAV_Sensors

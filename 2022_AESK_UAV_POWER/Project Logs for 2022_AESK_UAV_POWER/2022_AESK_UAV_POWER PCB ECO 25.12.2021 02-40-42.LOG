@@ -1,0 +1,69 @@
+Change Component Footprint: Designator=R4 Old Footprint=RESC 0805 New Footprint=RESC 0603
+Change Component Footprint: Designator=R5 Old Footprint=RESC 0805 New Footprint=RESC 0603
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC 0805"; UniqueID = "\BGDYIELH" ("\BGDYIELH")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R0230"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "27K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Values"; Value = "27K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC 0805"; UniqueID = "\CTPXUUEI" ("\CTPXUUEI")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R0220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "%5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Values"; Value = "10K"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C1 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C2 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C3 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C4 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C5 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C6 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C7 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C8 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C9 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C10 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C11 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C12 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C13 10uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C14 100nF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C15 10uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C16 100nF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C17 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C18 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C19 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C20 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C21 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C22 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C23 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C24 1uF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C25 100nF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C26 10nF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component D1 PMEG3050BEP
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component D2
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component E1 esc
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component E2 esc
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component E3 esc
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component E4 esc
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component E5 esc
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component FB1 Ferrite Bead
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component G1 gnd
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component G2 gnd
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component G3 gnd
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component G4 gnd
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component G5 gnd
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component J1 XT60PW-M
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component LED1
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component LED2
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component M1 DC-DC Conv(0.8V-18V&3A)
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component P1 1x2 PIN
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component R1 470R
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component R2 470R
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component R3 4.7K
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component R4 27K
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component R5 10K
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component U1 ACS758KCB-150B-PFF-T
+Added Room: Name=2022_AESK_UAV_POWER

@@ -1,0 +1,4 @@
+AESK_Ring_Buffer.c:15:6:Ring_Buffer_Init	24	static
+AESK_Ring_Buffer.c:27:6:Write_Data_Ring_Buffer	32	static
+AESK_Ring_Buffer.c:51:9:Read_Byte_Ring_Buffer	24	static
+AESK_Ring_Buffer.c:73:9:Read_All_Buffer	24	static

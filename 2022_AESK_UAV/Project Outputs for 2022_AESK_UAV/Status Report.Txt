@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [2022_AESK_UAV.PcbDoc]
+   Generated File[2022_AESK_UAV.TXT]
+   Generated File[2022_AESK_UAV.LDP]
+   Generated File[2022_AESK_UAV.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:22:56 On 27.12.2021

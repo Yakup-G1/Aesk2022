@@ -1,0 +1,3 @@
+DSHOT.c:19:6:dshot_init	8	static
+DSHOT.c:35:6:dshot_write	40	static
+DSHOT.c:68:6:dshot_write_all	24	static

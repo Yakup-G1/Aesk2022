@@ -1,0 +1,12 @@
+Remove Pin=J1-2 From Net=ibus rx
+Remove Pin=J3-2 From Net=motor-1
+Remove Pin=J4-2 From Net=motor-2
+Remove Pin=J5-2 From Net=motor-3
+Remove Pin=J6-2 From Net=motor-4
+Remove Pin=J7-4 From Net=I2C2-SCL
+Remove Pin=J7-5 From Net=I2C2-SDA
+Remove Pin=J8-3 From Net=SPI3-SCK
+Remove Pin=J8-4 From Net=SPI3-MISO
+Remove Pin=J8-5 From Net=SPI3-MOSI
+Remove Pin=J9-4 From Net=I2C1-SCL
+Add Pin To Net: Pin=U-59 Old Net=I2C1-SDA New Net=I2C2-SDA

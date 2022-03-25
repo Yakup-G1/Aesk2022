@@ -1,0 +1,72 @@
+Added Component: Designator=Q1(TO-220-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520NPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220AB International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520NPBF/Infineon%20Technologies/view-part/106191/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(TO-220-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520NPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220AB International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520NPBF/Infineon%20Technologies/view-part/106191/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(TO-220-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520NPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220AB International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520NPBF/Infineon%20Technologies/view-part/106191/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q4(TO-220-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520NPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220AB International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520NPBF/Infineon%20Technologies/view-part/106191/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q5(TO-220-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520NPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220AB International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520NPBF/Infineon%20Technologies/view-part/106191/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q6(TO-220-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF520NPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220AB International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF520NPBF/Infineon%20Technologies/view-part/106191/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=+12V_ISO Pin=Q1-2
+Added Pin To Net: NetName=GND_ISO Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=+12V_ISO Pin=Q2-2
+Added Pin To Net: NetName=GND_ISO Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=+12V_ISO Pin=Q3-2
+Added Pin To Net: NetName=GND_ISO Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=+12V_ISO Pin=Q4-2
+Added Pin To Net: NetName=GND_ISO Pin=Q4-3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=+12V_ISO Pin=Q5-2
+Added Pin To Net: NetName=GND_ISO Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=+12V_ISO Pin=Q6-2
+Added Pin To Net: NetName=GND_ISO Pin=Q6-3
+Added Member To Class: ClassName=driver_and_mosfets Member=Component Q1 PJP60N08_T0_00001
+Added Member To Class: ClassName=driver_and_mosfets Member=Component Q2 PJP60N08_T0_00001
+Added Member To Class: ClassName=driver_and_mosfets Member=Component Q3 PJP60N08_T0_00001
+Added Member To Class: ClassName=driver_and_mosfets Member=Component Q4 PJP60N08_T0_00001
+Added Member To Class: ClassName=driver_and_mosfets Member=Component Q5 PJP60N08_T0_00001
+Added Member To Class: ClassName=driver_and_mosfets Member=Component Q6 PJP60N08_T0_00001

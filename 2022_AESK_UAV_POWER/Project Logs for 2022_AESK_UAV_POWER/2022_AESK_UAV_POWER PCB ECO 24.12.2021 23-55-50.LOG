@@ -1,0 +1,88 @@
+Added Component: Designator=C25(CAPC 0603)
+Add component (AddParameter): Name = "Category"; Value = "Capacitor Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Favorites"; Value = "Favorite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Rating"; Value = "nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "100nF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAPC 0603)
+Add component (AddParameter): Name = "Category"; Value = "Capacitor Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Favorites"; Value = "Favorite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAPC0277"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Rating"; Value = "nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "10nF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=E5(esc)
+Added Component: Designator=G5(gnd)
+Added Component: Designator=P1(HDR_2.54_1X2)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "HDR_2.54_1X2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Connector0008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "Header 2.54 1x2"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC 0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC 0805)
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0376"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "27K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC 0805)
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(Allegro_MicroSystems_LLC_CB-5-PFF_MFG)
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=+5V Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=+5V Pin=E5-1
+Added Pin To Net: NetName=GND Pin=G5-1
+Added Pin To Net: NetName=+12V Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=+5V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=+12V Pin=U1-4
+Added Pin To Net: NetName=+12V Pin=U1-4
+Added Pin To Net: NetName=+12V Pin=U1-4
+Added Pin To Net: NetName=ESC Pin=U1-5
+Added Pin To Net: NetName=ESC Pin=U1-5
+Added Pin To Net: NetName=ESC Pin=U1-5
+Added Pin To Net: NetName=CS-ADC Pin=C26-2
+Added Pin To Net: NetName=CS-ADC Pin=P1-1
+Added Pin To Net: NetName=CS-ADC Pin=R3-1
+Added Net: Name=CS-ADC
+Added Pin To Net: NetName=GB-ADC Pin=P1-2
+Added Pin To Net: NetName=GB-ADC Pin=R4-1
+Added Pin To Net: NetName=GB-ADC Pin=R5-2
+Added Net: Name=GB-ADC
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-3
+Added Net: Name=NetR3_2
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C25 100nF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component C26 10nF
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component E5 esc
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component G5 gnd
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component P1 1x2 PIN
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component R3 4.7K
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component R4 27K
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component R5 10K
+Added Member To Class: ClassName=2022_AESK_UAV_POWER Member=Component U1 ACS758KCB-150B-PFF-T
+Added Room: Name=2022_AESK_UAV_POWER

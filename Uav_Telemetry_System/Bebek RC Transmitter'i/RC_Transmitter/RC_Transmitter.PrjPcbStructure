@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=RcTransmitterMC.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=RcTransmitterMC.SchDoc|FileName=RcTransmitterPower.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=RcTransmitterMC.SchDoc|FileName=RcTransmitterSwitches.SchDoc|SheetNumber=3

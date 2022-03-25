@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\fatih\Desktop\AESK\Altium\2022_AESK_UAV_POWER\2022_AESK_UAV_POWER.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=2022_aesk_uav_power-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=2022_aesk_uav_power-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=2022_aesk_uav_power-rectholes.txt|DrillLayers=gtl,gbl

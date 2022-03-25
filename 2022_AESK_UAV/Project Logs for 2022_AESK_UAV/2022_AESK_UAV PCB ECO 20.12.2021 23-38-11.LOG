@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=+3.3V Pin=P8-1
+Removed Pin From Net: NetName=GND Pin=P8-2
+Removed Pin From Net: NetName=I2C2-SCL Pin=P8-3
+Removed Pin From Net: NetName=I2C2-SDA Pin=P8-4
+Removed Pin From Net: NetName=IMU_XDA Pin=P8-5
+Removed Pin From Net: NetName=IMU_XCL Pin=P8-6
+Removed Pin From Net: NetName=GND Pin=P8-7
+Removed Pin From Net: NetName=IMU_INT Pin=P8-8
+Removed Member From Class: ClassName=2022_AESK_UAV_Sensors Member=P8
+Added Component: Designator=M1(MPU-9255(GY-87))
+Add component (AddParameter): Name = "category"; Value = "Sensor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MPU-9255(gyroscope/accellemeter/magnometer/barometer)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://pdf.direnc.net/upload/mpu-9255-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://store.invensense.com/datasheets/invensense/MPU-6000EVB.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://store.invensense.com/datasheets/invensense/MPU-6000EVB.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Evaluation Kit"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MPU-6050EVB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=56,00000, 5=50,75000, 10=48,12500, 25=46,55000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = "Accelerometer,Gyroscope,3 Axis"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1428-1008-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-2
+Added Pin To Net: NetName=I2C2-SCL Pin=M1-3
+Added Pin To Net: NetName=I2C2-SDA Pin=M1-4
+Added Pin To Net: NetName=IMU_XDA Pin=M1-5
+Added Pin To Net: NetName=IMU_XCL Pin=M1-6
+Added Pin To Net: NetName=GND Pin=M1-7
+Added Pin To Net: NetName=IMU_INT Pin=M1-8
+Added Member To Class: ClassName=2022_AESK_UAV_Sensors Member=Component M1 MPU-9255(resim ve supplier bilgileri mpu6050dir)
+Added Room: Name=2022_AESK_UAV_CAN
+Added Room: Name=2022_AESK_UAV_CONNECTOR
+Added Room: Name=2022_AESK_UAV_EXT_CONN
+Added Room: Name=2022_AESK_UAV_Islemci
+Added Room: Name=2022_AESK_UAV_Power
+Added Room: Name=2022_AESK_UAV_Sensors

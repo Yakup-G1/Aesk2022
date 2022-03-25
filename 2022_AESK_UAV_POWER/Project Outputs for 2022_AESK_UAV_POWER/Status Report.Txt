@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [2022_AESK_UAV_POWER.PcbDoc]
+   Generated File[2022_AESK_UAV_POWER-RoundHoles.TXT]
+   Generated File[2022_AESK_UAV_POWER-SlotHoles.TXT]
+   Generated File[2022_AESK_UAV_POWER-RectHoles.TXT]
+   Generated File[2022_AESK_UAV_POWER.LDP]
+   Generated File[2022_AESK_UAV_POWER.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 23:47:04 On 27.12.2021

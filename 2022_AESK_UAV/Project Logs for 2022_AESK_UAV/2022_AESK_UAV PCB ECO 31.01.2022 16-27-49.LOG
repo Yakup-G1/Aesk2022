@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator= NewDesignator=S1
+Change Component Designator: OldDesignator= NewDesignator=S2
+Change Component Designator: OldDesignator= NewDesignator=S3
+Added Member To Class: ClassName=2022_AESK_UAV_CONNECTOR Member=Component S1 5002
+Added Member To Class: ClassName=2022_AESK_UAV_CONNECTOR Member=Component S2 5002
+Added Member To Class: ClassName=2022_AESK_UAV_CONNECTOR Member=Component S3 5002
+Added Room: Name=2022_AESK_UAV_CAN
+Added Room: Name=2022_AESK_UAV_CONNECTOR
+Added Room: Name=2022_AESK_UAV_EXT_CONN
+Added Room: Name=2022_AESK_UAV_Islemci
+Added Room: Name=2022_AESK_UAV_Power
+Added Room: Name=2022_AESK_UAV_Sensors

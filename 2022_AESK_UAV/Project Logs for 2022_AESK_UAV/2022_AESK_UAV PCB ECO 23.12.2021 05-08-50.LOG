@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+3.3V Pin=C14-2
+Added Pin To Net: NetName=+5V Pin=P6-2
+Added Pin To Net: NetName=+5V Pin=P7-2
+Added Pin To Net: NetName=+5V Pin=P8-2
+Added Pin To Net: NetName=+5V Pin=P9-2
+Added Member To Class: ClassName=2022_AESK_UAV_Power Member=Component D1 PMEG3050BEP
+Added Room: Name=2022_AESK_UAV_CAN
+Added Room: Name=2022_AESK_UAV_CONNECTOR
+Added Room: Name=2022_AESK_UAV_EXT_CONN
+Added Room: Name=2022_AESK_UAV_Islemci
+Added Room: Name=2022_AESK_UAV_Power
+Added Room: Name=2022_AESK_UAV_Sensors

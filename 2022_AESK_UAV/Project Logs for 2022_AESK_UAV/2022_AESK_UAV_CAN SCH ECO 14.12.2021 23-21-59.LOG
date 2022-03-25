@@ -1,0 +1,10 @@
+Remove Pin=P3-3 From Net=ibus rx
+Remove Pin=P3-7 From Net=GPIO
+Remove Pin=P3-8 From Net=USART6-TX
+Remove Pin=P3-9 From Net=USART3-TX
+Remove Pin=P3-10 From Net=USART6-RX
+Remove Pin=P3-13 From Net=CANH_1
+Remove Pin=P3-14 From Net=SPI3-CS
+Remove Pin=P3-15 From Net=CANL_1
+Remove Pin=P3-17 From Net=CANH_2
+Remove Pin=P3-19 From Net=CANL_2

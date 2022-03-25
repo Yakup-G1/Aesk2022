@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="UTF-8"/>
+</head>
+<body>
+
+<style>
+    .toplamTd {
+        width: 250px;
+        font-weight: bold;
+    }
+    .tdleft {
+        text-align: left;
+    }
+    .tdright {
+        text-align: right;
+    }
+    .tdcenter {
+        text-align: center;
+    }
+</style>
+<table style="width: 100%">
+    <tr>
+        <td style="text-align: left; height: 75px">
+            <img src="https://ozdisan.com/Content/Company/images/logo.png" alt="Özdisan Logo"/>
+        </td>
+        <td style="text-align: right; vertical-align: text-top">28.12.2021</td>
+    </tr>
+</table>
+<table style="width: 25%">
+    <tr style="        font-weight: bold;
+        background-color: #2C5299;
+        color: white;
+        height: 30px;
+        font-family: Tahoma;
+">
+        <td>Fatura Adresim</td>
+    </tr>
+    <tr>
+        <td>
+                    <tr>
+                        <td>
+                            Fatura adresi se&#231;ilmedi.
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td></td>
+                    </tr>
+        </td>
+    </tr>
+</table>
+<br/>
+<table class="table table-bordered" style="font-family: Tahoma; width: 100%">
+    <tr style="font-weight: bold; background-color: #2C5299; color: white; height: 30px; font-family: Tahoma;">
+        <th class="text-left tdleft">G&#246;rsel</th>
+        <th class="text-left tdleft ">&#220;r&#252;n Kodu</th>
+        <th colspan="2" class="text-left tdleft hidden-xs hidden-sm visible-md visible-lg">&#220;r&#252;n A&#231;ıklama</th>
+        <th class="text-left tdleft">Birim Fiyat</th>
+
+        <th class="text-left tdleft">KDV</th>
+        <th class="text-left tdleft">Adet</th>
+        <th class="text-left tdleft">KDV Dahil</th>
+    </tr>
+            <tr>
+                <td class="text-left tdleft" style="height: 40px;">
+                    <img width="60" height="40" src="https://cdn.ozdisan.com/ETicaret_Dosya/440974_5949377.jpg"/>
+                </td>
+                <td class="text-left tdleft">CL10B472JB8NNNC</td>
+                <td colspan="2" class="tdleft text-left tdleft hidden-xs hidden-sm visible-md visible-lg">
+                    MLCC (1608) 0603 4.7nF 50VDC &#177;5% X7R
+                </td>
+                <td class="text-right tdright">
+                    <span>0,0071500 USD</span>
+                </td>
+                <td class="text-center tdcenter">
+                    18,00 %
+                </td>
+                <td class="text-center tdcenter">100</td>
+                <td class="text-left tdleft"><span>0,84 USD</span></td>
+            </tr>
+            <tr>
+                <td class="text-left tdleft" style="height: 40px;">
+                    <img width="60" height="40" src="https://cdn.ozdisan.com/ETicaret_Dosya/440974_5949377.jpg"/>
+                </td>
+                <td class="text-left tdleft">CQ03SAJ0471T5E</td>
+                <td colspan="2" class="tdleft text-left tdleft hidden-xs hidden-sm visible-md visible-lg">
+                    RES.(1608) 0603 470 Ohms 5% 1/10W AUTOMOTIV
+                </td>
+                <td class="text-right tdright">
+                    <span>0,0028600 USD</span>
+                </td>
+                <td class="text-center tdcenter">
+                    18,00 %
+                </td>
+                <td class="text-center tdcenter">25</td>
+                <td class="text-left tdleft"><span>0,08 USD</span></td>
+            </tr>
+            <tr>
+                <td class="text-left tdleft" style="height: 40px;">
+                    <img width="60" height="40" src="https://cdn.ozdisan.com/ETicaret_Dosya/440974_5949377.jpg"/>
+                </td>
+                <td class="text-left tdleft">0603WAJ0273T5E</td>
+                <td colspan="2" class="tdleft text-left tdleft hidden-xs hidden-sm visible-md visible-lg">
+                    RES.(1608) 0603 27K Ohms 5% 1/10W 100PPM
+                </td>
+                <td class="text-right tdright">
+                    <span>0,0016900 USD</span>
+                </td>
+                <td class="text-center tdcenter">
+                    18,00 %
+                </td>
+                <td class="text-center tdcenter">50</td>
+                <td class="text-left tdleft"><span>0,10 USD</span></td>
+            </tr>
+            <tr>
+                <td class="text-left tdleft" style="height: 40px;">
+                    <img width="60" height="40" src="https://cdn.ozdisan.com/ETicaret_Dosya/446050_3102615.jpg"/>
+                </td>
+                <td class="text-left tdleft">CL31B105KBHNNNE</td>
+                <td colspan="2" class="tdleft text-left tdleft hidden-xs hidden-sm visible-md visible-lg">
+                    MLCC (3216) 1206 1uF 50VDC &#177;10% X7R
+                </td>
+                <td class="text-right tdright">
+                    <span>0,0281800 USD</span>
+                </td>
+                <td class="text-center tdcenter">
+                    18,00 %
+                </td>
+                <td class="text-center tdcenter">20</td>
+                <td class="text-left tdleft"><span>0,67 USD</span></td>
+            </tr>
+            <tr>
+                <td class="text-left tdleft" style="height: 40px;">
+                    <img width="60" height="40" src="https://cdn.ozdisan.com/ETicaret_Dosya/414277_4390192.jpg"/>
+                </td>
+                <td class="text-left tdleft">CL21B105KBFNNNE</td>
+                <td colspan="2" class="tdleft text-left tdleft hidden-xs hidden-sm visible-md visible-lg">
+                    MLCC (2012) 0805 1uF 50VDC &#177;10% X7R
+                </td>
+                <td class="text-right tdright">
+                    <span>0,0173200 USD</span>
+                </td>
+                <td class="text-center tdcenter">
+                    18,00 %
+                </td>
+                <td class="text-center tdcenter">60</td>
+                <td class="text-left tdleft"><span>1,23 USD</span></td>
+            </tr>
+            <tr>
+                <td class="text-left tdleft" style="height: 40px;">
+                    <img width="60" height="40" src="https://cdn.ozdisan.com/ETicaret_Dosya/440974_5949377.jpg"/>
+                </td>
+                <td class="text-left tdleft">CL10C103JA8NNNC</td>
+                <td colspan="2" class="tdleft text-left tdleft hidden-xs hidden-sm visible-md visible-lg">
+                    MLCC (1608) 0603 10nF 25VDC &#177;5% C0G (NP0)
+                </td>
+                <td class="text-right tdright">
+                    <span>0,0758800 USD</span>
+                </td>
+                <td class="text-center tdcenter">
+                    18,00 %
+                </td>
+                <td class="text-center tdcenter">10</td>
+                <td class="text-left tdleft"><span>0,90 USD</span></td>
+            </tr>
+</table>
+<br/>
+    <table style="width: 100%">
+        <tr>
+            <td style="width: 25%"></td>
+            <td style="width: 25%"></td>
+            <td style="width: 25%"></td>
+            <td style="width: 25%">
+                <table style="font-family: Tahoma; text-align: left; width: 100%">
+                    <tr style="font-weight: bold; background-color: #2C5299; color: white; font-family: Tahoma; font-size: 16px; height: 30px;">
+                        <td colspan="2" class="text-left tdleft">
+                            Toplam Tutar Detayı
+                        </td>
+                    </tr>
+                    <tr>
+                        <th class="tdleft">Toplam Sipariş Tutarı</th>
+                        <td class="tdright">3,23 USD</td>
+                    </tr>
+                    <tr>
+                        <th class="tdleft">Kargo Fiyatı</th>
+                        <td class="tdright"> 1,08 USD</td>
+                    </tr>
+                    <tr>
+                        <th class="tdleft">KDV</th>
+                        <td class="tdright">0,78 USD</td>
+                    </tr>
+
+                    <tr>
+                        <th class="tdleft">Genel Toplam</th>
+                        <td class="tdright">5,09 USD</td>
+                    </tr>
+                    <tr>
+                        <th class="tdleft">D&#246;viz Kuru</th>
+                        <td class="tdright">12,00000 TRY</td>
+                    </tr>
+                    <tr>
+                        <th class="tdleft">&#214;denecek Tutar</th>
+                        <td style="font-weight: bold" class="tdright">61,10 TRY</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<table style="width: 100%">
+    <tr>
+        <td style="width: 25%"></td>
+        <td style="width: 50%; text-align: center">
+            <img width="75" src="https://ozdisan.com/Content/Company/images/logo.png" alt=""/>
+            <br/>
+
+            Özdisan Elektronik A.Ş.
+            <br/>
+            DES Sanayi Sitesi 104 Sokak A07 Blok No : 54 - 56
+            <br/>
+            Yukarı Dudullu / Ümraniye / İstanbul - T&#252;rkiye
+            <br/>
+            T : +90 216 420 18 82 F : +90 216 466 36 82
+        </td>
+        <td style="width: 25%"></td>
+    </tr>
+</table>
+</body>
+</html>

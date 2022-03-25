@@ -1,0 +1,5 @@
+MotorPowerCalculate.c:26:6:SetMotorPWM	16	static
+MotorPowerCalculate.c:33:6:Init_ESC	8	static
+MotorPowerCalculate.c:61:6:MotorPowerCalculateWithRate	24	static
+MotorPowerCalculate.c:120:6:MotorPowerCalculateWithAltitude	8	static
+MotorPowerCalculate.c:128:6:MotorPowerCalculateWithPosition	16	static

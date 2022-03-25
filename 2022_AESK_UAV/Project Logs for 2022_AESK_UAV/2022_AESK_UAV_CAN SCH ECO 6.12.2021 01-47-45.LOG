@@ -1,0 +1,2 @@
+Remove Pin=J9-4 From Net=I2C1-SCL
+Remove Pin=J9-5 From Net=I2C1-SDA

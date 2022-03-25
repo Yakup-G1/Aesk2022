@@ -1,0 +1,5 @@
+MS5611.c:9:6:Ms5611Init	24	static
+MS5611.c:24:6:CalculateTemperature	16	static
+MS5611.c:36:6:CompansatedPressure	56	static
+MS5611.c:72:6:FilteredPressure	8	static
+MS5611.c:77:6:Ms5611Altitude	16	static

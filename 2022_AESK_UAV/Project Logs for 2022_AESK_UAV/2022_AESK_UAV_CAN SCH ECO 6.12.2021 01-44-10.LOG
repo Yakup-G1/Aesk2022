@@ -1,0 +1,20 @@
+Remove Pin=J7-4 From Net=I2C1-SCL
+Remove Pin=J7-5 From Net=I2C1-SDA
+Remove Pin=J8-2 From Net=SPI3-CS
+Remove Pin=J8-3 From Net=SPI3-SCK
+Remove Pin=J8-4 From Net=SPI3-MISO
+Remove Pin=J8-5 From Net=SPI3-MOSI
+Remove Pin=J9-4 From Net=I2C1-SCL
+Remove Pin=J9-5 From Net=I2C1-SDA
+Change Component Footprint: Designator=J8 Old Footprint=JST_B5B-ZR(LF)(SN) 1.5mm New Footprint=JST_B5B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J9 Old Footprint=JST_B5B-ZR(LF)(SN) 1.5mm New Footprint=JST_B5B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J10 Old Footprint=JST_B5B-ZR(LF)(SN) 1.5mm New Footprint=JST_B5B-XH-A(LF)(SN)
+Change Component Comment: Designator=J8 Old Comment=B5B-ZR(LF)(SN) 1.5mm New Comment=B5B-XH-A(LF)(SN)
+Change Component Comment: Designator=J9 Old Comment=B5B-ZR(LF)(SN) 1.5mm New Comment=B5B-XH-A(LF)(SN)
+Change Component Comment: Designator=J10 Old Comment=B5B-ZR(LF)(SN) 1.5mm New Comment=B5B-XH-A(LF)(SN)
+Add Pin To Net: Pin=J8-4 Old Net=SPI3-MISO New Net=I2C1-SCL
+Add Pin To Net: Pin=J8-5 Old Net=SPI3-MOSI New Net=I2C1-SDA
+Add Pin To Net: Pin=J9-2 Old Net=+5V New Net=SPI3-CS
+Add Pin To Net: Pin=J9-3 Old Net=+3.3V New Net=SPI3-SCK
+Add Pin To Net: Pin=J9-4 Old Net=I2C1-SCL New Net=SPI3-MISO
+Add Pin To Net: Pin=J9-5 Old Net=I2C1-SDA New Net=SPI3-MOSI

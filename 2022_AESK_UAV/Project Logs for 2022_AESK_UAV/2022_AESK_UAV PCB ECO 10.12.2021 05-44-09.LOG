@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CANH_1 Pin=J12-3
+Added Pin To Net: NetName=CANL_1 Pin=J12-3
+Added Member To Class: ClassName=2022_AESK_UAV_EXT_CONN Member=Component J16 B5B-ZR(LF)(SN) 1.5mm
+Added Room: Name=2022_AESK_UAV_CAN
+Added Room: Name=2022_AESK_UAV_CONNECTOR
+Added Room: Name=2022_AESK_UAV_EXT_CONN
+Added Room: Name=2022_AESK_UAV_Islemci
+Added Room: Name=2022_AESK_UAV_Power
+Added Room: Name=2022_AESK_UAV_Sensors

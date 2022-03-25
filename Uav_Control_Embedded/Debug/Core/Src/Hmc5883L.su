@@ -1,0 +1,5 @@
+Hmc5883L.c:15:6:ManyometerWrite	32	static
+Hmc5883L.c:22:6:ManyometerRead	32	static
+Hmc5883L.c:26:6:ManyometerInit	8	static
+Hmc5883L.c:51:6:ManyometerReadValue	8	static
+Hmc5883L.c:74:6:Magno_Offset_Calc	4	static

@@ -1,0 +1,5 @@
+ReadingSensor.c:10:6:Offset_Calculate	24	static
+ReadingSensor.c:65:6:MPU6050	16	static
+ReadingSensor.c:117:6:MPU6050AHRS	8	static
+ReadingSensor.c:129:6:HMC5883L	24	static
+ReadingSensor.c:146:7:AccelToVelocity	24	static

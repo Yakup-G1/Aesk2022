@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=USART2-TX Pin=P11-1
+Removed Pin From Net: NetName=USART2-RX Pin=P11-2
+Removed Member From Class: ClassName=2022_AESK_UAV_CONNECTOR Member=P11
+Added Component: Designator=P10(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USART2-TX Pin=P10-1
+Added Pin To Net: NetName=USART2-RX Pin=P10-2
+Added Member To Class: ClassName=2022_AESK_UAV_CONNECTOR Member=Component P10 Header 2
+Added Room: Name=2022_AESK_UAV_CAN
+Added Room: Name=2022_AESK_UAV_CONNECTOR
+Added Room: Name=2022_AESK_UAV_EXT_CONN
+Added Room: Name=2022_AESK_UAV_Islemci
+Added Room: Name=2022_AESK_UAV_Power
+Added Room: Name=2022_AESK_UAV_Sensors

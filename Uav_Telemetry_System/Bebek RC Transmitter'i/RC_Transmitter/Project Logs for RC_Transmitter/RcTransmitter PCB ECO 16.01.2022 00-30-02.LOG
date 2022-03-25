@@ -1,0 +1,19 @@
+Added Component: Designator=D?(DO-214AC, SMA)
+Add component (AddParameter): Name = "Category"; Value = "Diode Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "FILL!!!"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Diode0012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "FILL!!!"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "FILL!!!"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - DC Reverse (Vr)"; Value = "FILL!!!"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf)"; Value = "FILL!!!"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Member To Class: ClassName=RcTransmitterPower Member=Component D? *
+Added Room: Name=RcTransmitterMC
+Added Room: Name=RcTransmitterPower
+Added Room: Name=RcTransmitterSwitches

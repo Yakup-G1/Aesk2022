@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=motor-1 Pin=P6-2
+Removed Pin From Net: NetName=motor-2 Pin=P7-2
+Removed Pin From Net: NetName=motor-3 Pin=P9-2
+Removed Pin From Net: NetName=GND Pin=P10-1
+Removed Pin From Net: NetName=motor-4 Pin=P10-2
+Removed Member From Class: ClassName=2022_AESK_UAV_CONNECTOR Member=P10
+Change Component Footprint: Designator=P6 Old Footprint=HDR_2.54_1X2 New Footprint=HDR_2.54_1X3
+Change Component Footprint: Designator=P7 Old Footprint=HDR_2.54_1X2 New Footprint=HDR_2.54_1X3
+Change Component Footprint: Designator=P9 Old Footprint=HDR_2.54_1X2 New Footprint=HDR_2.54_1X3
+Change Component Comment : Designator=P6 Old Comment=1x2 PIN New Comment=1x3 PIN
+Change Component Comment : Designator=P7 Old Comment=1x2 PIN New Comment=1x3 PIN
+Change Component Comment : Designator=P9 Old Comment=1x2 PIN New Comment=1x3 PIN
+Change component parameters: Designator = "P6" ("P6"); Footprint = "HDR_2.54_1X2"; UniqueID = "\BCTZQGJP" ("\BCTZQGJP")
+Change component parameters (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "HDR_2.54_1X3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "Connector0009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Values"; Value = "Header 2.54 1x3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P7" ("P7"); Footprint = "HDR_2.54_1X2"; UniqueID = "\PSFZRAQJ" ("\PSFZRAQJ")
+Change component parameters (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "HDR_2.54_1X3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "Connector0009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Values"; Value = "Header 2.54 1x3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P9" ("P9"); Footprint = "HDR_2.54_1X2"; UniqueID = "\GFGVWSCR" ("\GFGVWSCR")
+Change component parameters (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "HDR_2.54_1X3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "Connector0009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Values"; Value = "Header 2.54 1x3"; VariantName = "[No Variations]"
+Added Component: Designator=P8(HDR_2.54_1X3)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "HDR_2.54_1X3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Connector0009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Values"; Value = "Header 2.54 1x3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=motor-1 Pin=P6-3
+Added Pin To Net: NetName=motor-2 Pin=P7-3
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=motor-3 Pin=P8-3
+Added Pin To Net: NetName=motor-4 Pin=P9-3
+Added Pin To Net: NetName=5V Pin=P6-2
+Added Pin To Net: NetName=5V Pin=P7-2
+Added Pin To Net: NetName=5V Pin=P8-2
+Added Pin To Net: NetName=5V Pin=P9-2
+Added Net: Name=5V
+Added Member To Class: ClassName=2022_AESK_UAV_CONNECTOR Member=Component P8 1x3 PIN
+Added Room: Name=2022_AESK_UAV_CAN
+Added Room: Name=2022_AESK_UAV_CONNECTOR
+Added Room: Name=2022_AESK_UAV_EXT_CONN
+Added Room: Name=2022_AESK_UAV_Islemci
+Added Room: Name=2022_AESK_UAV_Power
+Added Room: Name=2022_AESK_UAV_Sensors

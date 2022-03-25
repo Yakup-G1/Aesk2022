@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=+3.3 Pin=BOOT1-3
+Added Pin To Net: NetName=+3.3 Pin=BOOT2-3
+Added Pin To Net: NetName=+3.3 Pin=C10-2
+Added Pin To Net: NetName=+3.3 Pin=C11-2
+Added Pin To Net: NetName=+3.3 Pin=C12-2
+Added Pin To Net: NetName=+3.3 Pin=C21-2
+Added Pin To Net: NetName=+3.3 Pin=U2-1
+Added Pin To Net: NetName=+3.3 Pin=U2-9
+Added Pin To Net: NetName=+3.3 Pin=U2-24
+Added Pin To Net: NetName=+3.3 Pin=U2-36
+Added Pin To Net: NetName=+3.3 Pin=U2-48
+Added Room: Name=RcTransmitterMC
+Added Room: Name=RcTransmitterPower
+Added Room: Name=RcTransmitterSwitches
